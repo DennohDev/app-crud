@@ -2,6 +2,8 @@
 
 A clean, minimal **Products CRUD** application built with **Laravel 13**. It demonstrates the full create / read / update / delete cycle with server-side validation, flash messaging, seeded demo data, and a tidy, shadcn-inspired UI rendered with Blade and Tailwind CSS.
 
+**🔗 Live demo:** [laravel-app-crud.infinityfree.io](https://laravel-app-crud.infinityfree.io)
+
 ---
 
 ## Features
