@@ -31,6 +31,9 @@ A clean, minimal **Products CRUD** application built with **Laravel 13**. It dem
 
 ## Screenshots
 
+### Home
+![Home](docs/screenshots/home.png)
+
 ### Product list
 ![Product list](docs/screenshots/index.png)
 
